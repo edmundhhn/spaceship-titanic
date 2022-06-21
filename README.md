@@ -1,2 +1,4 @@
 # spaceship-titanic
- Spaceship titanic challenge from Kaggle
+Attempts at the spaceship titanic competition on Kaggle, includes EDA and modelling
+
+Main notebook is in spaceship-titanic.ipynb
